@@ -1,0 +1,22 @@
+#Languages
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+*.md linguist-detectable=false
+*.sh linguist-detectable=false
+*.bat linguist-detectable=false
+*.ps1 linguist-detectable=false
+
+# Line endings
+
+# All files are checked into the repo with LF
+* text=auto
+
+# These files are checked out using LF locally
+*.html eol=lf
+*.js eol=lf
+*.css eol=lf
+*.ts eol=lf
+*.tsx eol=lf
