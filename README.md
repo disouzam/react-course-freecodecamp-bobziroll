@@ -8,7 +8,7 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 
 ![Content of sections 1 and 2](img/section1&2.png)
 
-- 6:09: [Section 1 Static Pages + What We'll Learn](https://www.youtube.com/watch?v=x4rFhThSX04&t=369s)
+- 6:09: [Static Pages + What We'll Learn](https://www.youtube.com/watch?v=x4rFhThSX04&t=369s)
 - 8:39: [First React Code](https://www.youtube.com/watch?v=x4rFhThSX04&t=519s)
 - 15:20: [First React Challenge](https://www.youtube.com/watch?v=x4rFhThSX04&t=920s)
 - 18:19: [Local Setup w/Vite](https://www.youtube.com/watch?v=x4rFhThSX04&t=1099s)
