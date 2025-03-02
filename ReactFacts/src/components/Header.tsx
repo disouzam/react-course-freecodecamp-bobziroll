@@ -6,9 +6,9 @@ const Header = () => {
       <img src="src/assets/react-logo.png" width="40px" alt="React logo"></img>
       <nav>
         <ul className="nav-list">
-          <li>Pricing</li>
-          <li>About</li>
-          <li>Contact</li>
+          <li className="nav-list-item">Pricing</li>
+          <li className="nav-list-item">About</li>
+          <li className="nav-list-item">Contact</li>
         </ul>
       </nav>
     </header>

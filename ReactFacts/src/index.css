@@ -16,3 +16,8 @@ h1 {
 .nav-list {
     list-style: none;;
 }
+
+.nav-list-item {
+    display: inline;
+    margin-right: 20px;
+}
