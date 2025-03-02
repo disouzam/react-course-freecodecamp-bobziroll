@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header>
       <img src="Globe.png" alt="globe-icon" />
-      <span>my travel journal.</span>
+      <h1>my travel journal.</h1>
     </header>
   );
 };
