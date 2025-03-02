@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-  return TemporaryName();
+  return <TemporaryName />;
 };
 
 function TemporaryName() {
