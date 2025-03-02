@@ -6,7 +6,7 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 
 ## Section 1 and Section 2:
 
-![Content of sections 1 and 2](img/section1&2.png)
+![Content of sections 1 and 2](.img/section1&2.png)
 
 - 6:09: [**Lesson 1**: Static Pages + What We'll Learn](https://www.youtube.com/watch?v=x4rFhThSX04&t=369s)
 - 8:39: [**Lesson 2**: First React Code](https://www.youtube.com/watch?v=x4rFhThSX04&t=519s)
@@ -16,17 +16,17 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 33:20: [**Lesson 6**: React CreateElm](https://www.youtube.com/watch?v=x4rFhThSX04&t=2000s)
 - 36:10: [**Lesson 7**: JSX](https://www.youtube.com/watch?v=x4rFhThSX04&t=2170s)
 - 38:27: [**Lesson 8**: Why React?](https://www.youtube.com/watch?v=x4rFhThSX04&t=2307s)
-- 51:30: [Random Housekeeping](https://www.youtube.com/watch?v=x4rFhThSX04&t=3090s)
-- 1:00:15: [ReactFunFacts Project Mark-Up](https://www.youtube.com/watch?v=x4rFhThSX04&t=3615s)
-- 1:04:02: [Pop Quiz](https://www.youtube.com/watch?v=x4rFhThSX04&t=3842s)
-- 1:10:17: [Custom Components Part 1](https://www.youtube.com/watch?v=x4rFhThSX04&t=4217s)
-- 1:17:01: [Custom Components Part 2](https://www.youtube.com/watch?v=x4rFhThSX04&t=4621s)
-- 1:20:41: [Custom Components Quiz](https://www.youtube.com/watch?v=x4rFhThSX04&t=4841s)
-- 1:23:26: [Fragments](https://www.youtube.com/watch?v=x4rFhThSX04&t=5006s)
-- 1:25:59: [Custom Components Parent/Child](https://www.youtube.com/watch?v=x4rFhThSX04&t=5159s)
-- 1:31:24: [Styling With Classes](https://www.youtube.com/watch?v=x4rFhThSX04&t=5484s)
-- 1:40:04: [Organizing Components](https://www.youtube.com/watch?v=x4rFhThSX04&t=6004s)
-- 1:45:31: [Make Mental Outline of Project](https://www.youtube.com/watch?v=x4rFhThSX04&t=6331s)
+- 51:30: [**Lesson 10**: Random Housekeeping](https://www.youtube.com/watch?v=x4rFhThSX04&t=3090s)
+- 1:00:15: [**Lesson 11**: ReactFunFacts Project Mark-Up](https://www.youtube.com/watch?v=x4rFhThSX04&t=3615s)
+- 1:04:02: [**Lesson 12**: Pop Quiz](https://www.youtube.com/watch?v=x4rFhThSX04&t=3842s)
+- 1:10:17: [**Lesson 13**: Custom Components Part 1](https://www.youtube.com/watch?v=x4rFhThSX04&t=4217s)
+- 1:17:01: [**Lesson 14**: Custom Components Part 2](https://www.youtube.com/watch?v=x4rFhThSX04&t=4621s)
+- 1:20:41: [**Lesson 15**: Custom Components Quiz](https://www.youtube.com/watch?v=x4rFhThSX04&t=4841s)
+- 1:23:26: [**Lesson 16**: Fragments](https://www.youtube.com/watch?v=x4rFhThSX04&t=5006s)
+- 1:25:59: [**Lesson 17**: Custom Components Parent/Child](https://www.youtube.com/watch?v=x4rFhThSX04&t=5159s)
+- 1:31:24: [**Lesson 18**: Styling With Classes](https://www.youtube.com/watch?v=x4rFhThSX04&t=5484s)
+- 1:40:04: [**Lesson 19**:Organizing Components](https://www.youtube.com/watch?v=x4rFhThSX04&t=6004s)
+- 1:45:31: [**Lesson 20**: Make Mental Outline of Project](https://www.youtube.com/watch?v=x4rFhThSX04&t=6331s)
 - 1:49:24: [Initial Project Setup](https://www.youtube.com/watch?v=x4rFhThSX04&t=6564s)
 - 1:54:04: [ReactFacts Navbar & Styling](https://www.youtube.com/watch?v=x4rFhThSX04&t=6844s)
 - 2:02:10: [Main Content Section](https://www.youtube.com/watch?v=x4rFhThSX04&t=7330s)
@@ -60,7 +60,7 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 4:30:53: [Section 2 Recap Section 3](https://www.youtube.com/watch?v=x4rFhThSX04&t=16253s)
 
 ## Section 3 and Section 4:
-![Content of sections 3 and 4](img/section3&4.png)
+![Content of sections 3 and 4](.img/section3&4.png)
 
 - 4:33:02: [Section 3 Intro](https://www.youtube.com/watch?v=x4rFhThSX04&t=16382s)
 - 4:37:41: [Chef Claude: Header](https://www.youtube.com/watch?v=x4rFhThSX04&t=16661s)
@@ -143,7 +143,7 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 11:39:28: [Section 4 Outro Section 5](https://www.youtube.com/watch?v=x4rFhThSX04&t=41968s)
 
 ## Capstone projects
-![Capstone projects](img/capstone-projects-tenzie-assembly.png)
+![Capstone projects](.img/capstone-projects-tenzie-assembly.png)
 
 - 11:41:14: [Tenzies Intro](https://www.youtube.com/watch?v=x4rFhThSX04&t=42074s)
 - 11:43:32: [Setup](https://www.youtube.com/watch?v=x4rFhThSX04&t=42212s)
