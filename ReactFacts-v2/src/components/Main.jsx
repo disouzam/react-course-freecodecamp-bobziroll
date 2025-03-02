@@ -17,11 +17,6 @@ const Main = () => {
           Powers thousands of enterprise apps, including mobile apps
         </li>
       </ul>
-      {/* <img
-        src="/react-logo.png"
-        className="main-background-logo"
-        alt="React logo"
-      ></img> */}
     </main>
   );
 };
