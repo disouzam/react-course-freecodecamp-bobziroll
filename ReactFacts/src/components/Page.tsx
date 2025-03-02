@@ -3,7 +3,7 @@ import Header from "./Header";
 
 const Page = () => {
   return (
-    <div>
+    <>
       <Header />
       <main>
         <h1>Fun facts about React!</h1>
@@ -20,7 +20,7 @@ const Page = () => {
           &copy; 2024 Dickson Souza development. All rights reserved
         </small>
       </footer>
-    </div>
+    </>
   );
 };
 
