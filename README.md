@@ -8,6 +8,8 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 
 ![Content of sections 1 and 2](.img/section1&2.png)
 
+### Section 1
+
 - 6:09: [**Lesson 1**: Static Pages + What We'll Learn](https://www.youtube.com/watch?v=x4rFhThSX04&t=369s)
 - 8:39: [**Lesson 2**: First React Code](https://www.youtube.com/watch?v=x4rFhThSX04&t=519s)
 - 15:20: [**Lesson 3**: First React Challenge](https://www.youtube.com/watch?v=x4rFhThSX04&t=920s)
@@ -33,6 +35,11 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 2:08:46: [Coloring the Bullets](https://www.youtube.com/watch?v=x4rFhThSX04&t=7726s)
 - 2:10:58: [Add BG Image](https://www.youtube.com/watch?v=x4rFhThSX04&t=7858s)
 - 2:15:45: [Section 1 Recap Section 2](https://www.youtube.com/watch?v=x4rFhThSX04&t=8145s)
+
+![Recap of section 1](.img/section1-recap.png)
+
+### Section 2
+
 - 2:18:00: [Section 2 Intro](https://www.youtube.com/watch?v=x4rFhThSX04&t=8280s)
 - 2:20:28: [Travel Journal Header](https://www.youtube.com/watch?v=x4rFhThSX04&t=8428s)
 - 2:28:05: [Entry Component](https://www.youtube.com/watch?v=x4rFhThSX04&t=8885s)
