@@ -42,14 +42,10 @@ li::marker {
 }
 
 main {
-    background-image: url('/react.svg');
+    background-image: url('/react-logo.svg');
     background-repeat: no-repeat;
-    background-size: 263px;
+    background-size: 150px;
     background-position: right;
-}
-
-.main-background-logo {
-    width: 263px;
 }
 
 .nav-span {
