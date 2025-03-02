@@ -1,15 +1,10 @@
 import React from "react";
+import Header from "./Header";
 
 const Page = () => {
   return (
     <div>
-      <header>
-        <img
-          src="src/assets/react-logo.png"
-          width="40px"
-          alt="React logo"
-        ></img>
-      </header>
+      <Header />
       <main>
         <h1>Fun facts about React!</h1>
         <ul>
