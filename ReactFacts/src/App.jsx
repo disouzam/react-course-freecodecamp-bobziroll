@@ -1,10 +1,10 @@
 import React from "react";
 
 const App = () => {
-  return temporaryName();
+  return TemporaryName();
 };
 
-function temporaryName() {
+function TemporaryName() {
   return (
     <div>
       <img src="src/assets/react-logo.png" width="40px" alt="React logo"></img>
