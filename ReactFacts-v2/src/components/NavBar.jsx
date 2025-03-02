@@ -6,7 +6,7 @@ const Navbar = () => {
       <header className="header">
         <nav className="nav">
           <img
-            src="src/assets/react-logo.png"
+            src="/react-logo.png"
             className="nav-logo"
             alt="React logo"
           ></img>
