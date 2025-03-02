@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "files.trimTrailingWhitespace": true,
+    "markdown.extension.print.onFileSave": true
+}

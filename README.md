@@ -3,15 +3,19 @@
 Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.youtube.com/watch?v=x4rFhThSX04)
 
 # Time stamps and links for each teaching lesson
-- Section 1 
-- 6:09: [Section 1 Static Pages + What We'll Learn](https://www.youtube.com/watch?v=x4rFhThSX04&t=369s)
-- 8:39: [First React Code](https://www.youtube.com/watch?v=x4rFhThSX04&t=519s)
-- 15:20: [First React Challenge](https://www.youtube.com/watch?v=x4rFhThSX04&t=920s)
-- 18:19: [Local Setup w/Vite](https://www.youtube.com/watch?v=x4rFhThSX04&t=1099s)
-- 24:25: [Libraries/Frameworks](https://www.youtube.com/watch?v=x4rFhThSX04&t=1465s)
-- 33:20: [React CreateElm](https://www.youtube.com/watch?v=x4rFhThSX04&t=2000s)
-- 36:10: [JSX](https://www.youtube.com/watch?v=x4rFhThSX04&t=2170s)
-- 38:27: [Why React?](https://www.youtube.com/watch?v=x4rFhThSX04&t=2307s)
+
+## Section 1 and Section 2:
+
+![Content of sections 1 and 2](img/section1&2.png)
+
+- 6:09: [**Lesson 1**: Static Pages + What We'll Learn](https://www.youtube.com/watch?v=x4rFhThSX04&t=369s)
+- 8:39: [**Lesson 2**: First React Code](https://www.youtube.com/watch?v=x4rFhThSX04&t=519s)
+- 15:20: [**Lesson 3**: First React Challenge](https://www.youtube.com/watch?v=x4rFhThSX04&t=920s)
+- 18:19: [**Lesson 4**: Local Setup w/Vite](https://www.youtube.com/watch?v=x4rFhThSX04&t=1099s)
+- 24:25: [**Lesson 5**: Libraries/Frameworks](https://www.youtube.com/watch?v=x4rFhThSX04&t=1465s)
+- 33:20: [**Lesson 6**: React CreateElm](https://www.youtube.com/watch?v=x4rFhThSX04&t=2000s)
+- 36:10: [**Lesson 7**: JSX](https://www.youtube.com/watch?v=x4rFhThSX04&t=2170s)
+- 38:27: [**Lesson 8**: Why React?](https://www.youtube.com/watch?v=x4rFhThSX04&t=2307s)
 - 51:30: [Random Housekeeping](https://www.youtube.com/watch?v=x4rFhThSX04&t=3090s)
 - 1:00:15: [ReactFunFacts Project Mark-Up](https://www.youtube.com/watch?v=x4rFhThSX04&t=3615s)
 - 1:04:02: [Pop Quiz](https://www.youtube.com/watch?v=x4rFhThSX04&t=3842s)
@@ -54,6 +58,10 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 4:20:51: [Travel Journal: Pass Object as Props](https://www.youtube.com/watch?v=x4rFhThSX04&t=15651s)
 - 4:26:33: [Travel Journal: Spread Object as Props](https://www.youtube.com/watch?v=x4rFhThSX04&t=15993s)
 - 4:30:53: [Section 2 Recap Section 3](https://www.youtube.com/watch?v=x4rFhThSX04&t=16253s)
+
+## Section 3 and Section 4:
+![Content of sections 3 and 4](img/section3&4.png)
+
 - 4:33:02: [Section 3 Intro](https://www.youtube.com/watch?v=x4rFhThSX04&t=16382s)
 - 4:37:41: [Chef Claude: Header](https://www.youtube.com/watch?v=x4rFhThSX04&t=16661s)
 - 4:45:51: [Chef Claude: Form](https://www.youtube.com/watch?v=x4rFhThSX04&t=17151s)
@@ -133,6 +141,10 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 11:29:50: [useEffect Practice: scrollIntoView()](https://www.youtube.com/watch?v=x4rFhThSX04&t=41390s)
 - 11:36:02: [scrollIntoView() iFrame Bug Fix](https://www.youtube.com/watch?v=x4rFhThSX04&t=41762s)
 - 11:39:28: [Section 4 Outro Section 5](https://www.youtube.com/watch?v=x4rFhThSX04&t=41968s)
+
+## Capstone projects
+![Capstone projects](img/capstone-projects-tenzie-assembly.png)
+
 - 11:41:14: [Tenzies Intro](https://www.youtube.com/watch?v=x4rFhThSX04&t=42074s)
 - 11:43:32: [Setup](https://www.youtube.com/watch?v=x4rFhThSX04&t=42212s)
 - 11:51:46: [Die Component](https://www.youtube.com/watch?v=x4rFhThSX04&t=42706s)
