@@ -43,7 +43,7 @@ li::marker {
 }
 
 main {
-    background-image: url('/react-logo.png');
+    background-image: url('/react.svg');
     background-repeat: no-repeat;
     background-size: 263px;
     background-position: right;
