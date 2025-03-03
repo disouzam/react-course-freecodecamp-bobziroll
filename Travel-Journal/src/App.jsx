@@ -4,7 +4,7 @@ import data from "./data";
 
 const App = () => {
   const entries = data.map((entryData) => (
-    <Entry key={entryData.id} entry={entryData} />
+    <Entry key={entryData.id} {...entryData} />
   ));
 
   return (
