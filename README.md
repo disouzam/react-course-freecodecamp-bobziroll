@@ -75,7 +75,7 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 4:37:41: [Chef Claude: Header](https://www.youtube.com/watch?v=x4rFhThSX04&t=16661s)
 - 4:45:51: [Chef Claude: Form](https://www.youtube.com/watch?v=x4rFhThSX04&t=17151s)
 - 4:55:46: [Project Overview](https://www.youtube.com/watch?v=x4rFhThSX04&t=17746s)
-- 4:57:34: [Event Listeners](https://www.youtube.com/watch?v=x4rFhThSX04&t=17854s)
+- 4:57:34: [**Lesson 5**: Event Listeners](https://www.youtube.com/watch?v=x4rFhThSX04&t=17854s)
 - 5:03:56: [Map Ingredients List](https://www.youtube.com/watch?v=x4rFhThSX04&t=18236s)
 - 5:13:47: [Props vs. State: Props](https://www.youtube.com/watch?v=x4rFhThSX04&t=18827s)
 - 5:18:08: [Props vs. State: State](https://www.youtube.com/watch?v=x4rFhThSX04&t=19088s)

@@ -1,5 +1,5 @@
 import React from "react";
-import chefClaudeIcon from "../../public/chef-claude-icon.png";
+import chefClaudeIcon from "/chef-claude-icon.png";
 
 const Header = () => {
   return (

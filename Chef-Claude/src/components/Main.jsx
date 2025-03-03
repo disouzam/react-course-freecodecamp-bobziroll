@@ -9,7 +9,7 @@ const Main = () => {
           placeholder="e.g. oregano"
           aria-label="Add ingredient"
         />
-        <button>Add ingredient</button>
+        <button onClick={() => console.log("Clicked!")}>Add ingredient</button>
       </form>
     </main>
   );
