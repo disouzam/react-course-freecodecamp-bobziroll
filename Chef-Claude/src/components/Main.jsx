@@ -1,6 +1,10 @@
 import React from "react";
 
 const Main = () => {
+  const handleClick = () => {
+    console.log("Clicked!");
+  };
+
   return (
     <main>
       <form className="add-ingredient-form">
@@ -9,7 +13,7 @@ const Main = () => {
           placeholder="e.g. oregano"
           aria-label="Add ingredient"
         />
-        <button onClick={() => console.log("Clicked!")}>Add ingredient</button>
+        <button onClick={handleClick}>Add ingredient</button>
       </form>
     </main>
   );
