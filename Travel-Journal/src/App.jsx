@@ -7,6 +7,7 @@ const App = () => {
 
   const entries = data.map((entryData) => (
     <Entry
+      key={entryData.id}
       img={entryData.img}
       title={entryData.title}
       country={entryData.country}
