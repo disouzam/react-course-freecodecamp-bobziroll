@@ -1,16 +1,24 @@
-import React from "react";
+import { useState } from "react";
+import Recipe from "./Recipe";
 
 const GetRecipe = (props) => {
-  console.log(`props received at GetRecipe component ${JSON.stringify(props)}`);
+  const [showRecipe, setShowRecipe] = useState(false);
+
+  const handleClick = () => {
+    setShowRecipe(true);
+  };
 
   return (
-    <div className="get-recipe-container">
-      <div>
-        <h3>Ready for a recipe?</h3>
-        <p>Generate a recipe from your list of ingredients.</p>
+    <>
+      <div className="get-recipe-container">
+        <div>
+          <h3>Ready for a recipe?</h3>
+          <p>Generate a recipe from your list of ingredients.</p>
+        </div>
+        <button onClick={handleClick}>Get a recipe</button>
       </div>
-      <button>Get a recipe</button>
-    </div>
+      {showRecipe && <Recipe />}
+    </>
   );
 };
 
