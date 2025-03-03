@@ -4,16 +4,14 @@ import IngredientList from "./IngredientList";
 const Main = () => {
   const [ingredients, setIngredients] = useState([]);
 
-  const handleSubmit = (event) => {
-    event.preventDefault();
-    const formData = new FormData(event.currentTarget);
+  const addNewIngredient = (formData) => {
     const ingredient = formData.get("ingredient");
     setIngredients([...ingredients, ingredient]);
   };
 
   return (
     <main>
-      <form onSubmit={handleSubmit} className="add-ingredient-form">
+      <form action={addNewIngredient} className="add-ingredient-form">
         <input
           type="text"
           id="ingredient"
