@@ -1,13 +1,14 @@
 import { useState } from "react";
-import { React } from "react";
 import IngredientList from "./IngredientList";
 
 const Main = () => {
   const [ingredients, setIngredients] = useState([]);
 
-  const handleSubmit = () => {
-    const ingredientInput = document.getElementById("ingredient-input").value;
-    setIngredients([...ingredients, ingredientInput]);
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    const formData = new FormData(event.currentTarget);
+    const ingredient = formData.get("ingredient");
+    setIngredients([...ingredients, ingredient]);
   };
 
   return (
@@ -15,7 +16,8 @@ const Main = () => {
       <form onSubmit={handleSubmit} className="add-ingredient-form">
         <input
           type="text"
-          id="ingredient-input"
+          id="ingredient"
+          name="ingredient"
           placeholder="e.g. oregano"
           aria-label="Add ingredient"
         />
