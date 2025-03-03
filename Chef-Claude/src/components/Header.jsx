@@ -1,9 +1,10 @@
 import React from "react";
+import chefClaudeIcon from "../../public/chef-claude-icon.png";
 
 const Header = () => {
   return (
     <header>
-      <img src="chef-claude-icon.png" alt="Chef Claude" />
+      <img src={chefClaudeIcon} alt="Chef Claude" />
       <h1>Chef Claude</h1>
     </header>
   );
