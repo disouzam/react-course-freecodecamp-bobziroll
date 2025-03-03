@@ -1,5 +1,6 @@
 import { useState } from "react";
 import IngredientList from "./IngredientList";
+import GetRecipe from "./GetRecipe";
 
 const Main = () => {
   const [ingredients, setIngredients] = useState([]);
@@ -22,6 +23,7 @@ const Main = () => {
         <button>Add ingredient</button>
       </form>
       {ingredients.length > 0 && <IngredientList ingredients={ingredients} />}
+      {ingredients.length > 0 && <GetRecipe />}
     </main>
   );
 };
