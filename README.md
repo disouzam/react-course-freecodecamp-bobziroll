@@ -111,7 +111,7 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 7:47:46: [Conditional Rendering Challenge 1](https://www.youtube.com/watch?v=x4rFhThSX04&t=28066s)
 - 7:52:44: [Challenge 2](https://www.youtube.com/watch?v=x4rFhThSX04&t=28364s)
 - 7:54:51: [Get Recipe Placeholder Challenge](https://www.youtube.com/watch?v=x4rFhThSX04&t=28491s)
-- 8:02:27: [Passing State as Props](https://www.youtube.com/watch?v=x4rFhThSX04&t=28947s)
+- 8:02:27: [**Lesson 41**: Passing State as Props](https://www.youtube.com/watch?v=x4rFhThSX04&t=28947s)
 - 8:09:35: [Setting State From Child Component](https://www.youtube.com/watch?v=x4rFhThSX04&t=29375s)
 - 8:17:35: [Passing Data Around React](https://www.youtube.com/watch?v=x4rFhThSX04&t=29855s)
 - 8:24:57: [Sound Pads Challenge Part 1](https://www.youtube.com/watch?v=x4rFhThSX04&t=30297s)
