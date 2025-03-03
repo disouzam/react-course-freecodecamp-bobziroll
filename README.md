@@ -66,6 +66,8 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 4:26:33: [Travel Journal: Spread Object as Props](https://www.youtube.com/watch?v=x4rFhThSX04&t=15993s)
 - 4:30:53: [Section 2 Recap Section 3](https://www.youtube.com/watch?v=x4rFhThSX04&t=16253s)
 
+![Recap of section 2](.img/section2-recap.png)
+
 ## Section 3 and Section 4:
 ![Content of sections 3 and 4](.img/section3&4.png)
 
