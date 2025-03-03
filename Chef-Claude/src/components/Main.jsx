@@ -23,7 +23,7 @@ const Main = () => {
         <button>Add ingredient</button>
       </form>
       {ingredients.length > 0 && <IngredientList ingredients={ingredients} />}
-      {ingredients.length > 0 && <GetRecipe />}
+      {ingredients.length > 3 && <GetRecipe />}
     </main>
   );
 };
