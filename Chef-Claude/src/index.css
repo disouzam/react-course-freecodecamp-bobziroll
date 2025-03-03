@@ -62,3 +62,7 @@ main {
     content: "+";
     margin-right: 5px;
 }
+
+.ingredients-list {
+    justify-content: center;
+}
