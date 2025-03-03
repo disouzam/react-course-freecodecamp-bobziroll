@@ -5,21 +5,21 @@ import IngredientList from "./IngredientList";
 const Main = () => {
   const [ingredients, setIngredients] = useState([]);
 
-  const handleClick = () => {
+  const handleSubmit = () => {
     const ingredientInput = document.getElementById("ingredient-input").value;
     setIngredients([...ingredients, ingredientInput]);
   };
 
   return (
     <main>
-      <form className="add-ingredient-form">
+      <form onSubmit={handleSubmit} className="add-ingredient-form">
         <input
           type="text"
           id="ingredient-input"
           placeholder="e.g. oregano"
           aria-label="Add ingredient"
         />
-        <button onClick={handleClick}>Add ingredient</button>
+        <button>Add ingredient</button>
       </form>
       {ingredients.length > 0 && <IngredientList ingredients={ingredients} />}
     </main>
