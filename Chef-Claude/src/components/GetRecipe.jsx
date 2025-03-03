@@ -1,6 +1,8 @@
 import React from "react";
 
-const GetRecipe = () => {
+const GetRecipe = (props) => {
+  console.log(`props received at GetRecipe component ${JSON.stringify(props)}`);
+
   return (
     <div className="get-recipe-container">
       <div>
