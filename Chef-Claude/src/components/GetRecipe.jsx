@@ -1,12 +1,20 @@
 import { useState } from "react";
+import { getRecipeFromMistral } from "./../../ai";
 import Recipe from "./Recipe";
 
 const GetRecipe = (props) => {
   const [showRecipe, setShowRecipe] = useState(false);
 
-  const handleClick = () => {
+  console.log(
+    `Ingredients at GetRecipe component: ${JSON.stringify(props.ingredients)}`
+  );
+
+  async function handleClick() {
+    console.log("Get recipe button clicked");
+    const recipeRecommendation = await getRecipeFromMistral(props.ingredients);
+    console.log(`Recipe recommendation: ${recipeRecommendation}`);
     setShowRecipe(true);
-  };
+  }
 
   return (
     <>
