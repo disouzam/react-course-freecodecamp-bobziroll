@@ -16,12 +16,7 @@ You are an assistant that receives a list of ingredients that a user has and sug
 // API keys private.
 
 // Make sure you set an environment variable in Scrimba
-// for HF_ACCESS_TOKEN
-// eslint-disable-next-line no-undef
-console.log(`import.meta.env.HF_ACCESS_TOKEN: ${import.meta.env.VITE_HF_ACCESS_TOKEN}`);
-
-console.log(`import.meta.env: ${JSON.stringify(import.meta.env)}`);
-
+// for VITE_HF_ACCESS_TOKEN
 const hf = new HfInference(import.meta.env.VITE_HF_ACCESS_TOKEN);
 
 export async function getRecipeFromMistral(ingredientsArr) {
