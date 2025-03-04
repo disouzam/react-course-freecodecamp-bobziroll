@@ -69,6 +69,7 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 ![Recap of section 2](.img/section2-recap.png)
 
 ## Section 3 and Section 4:
+
 ![Content of sections 3 and 4](.img/section3&4.png)
 
 - 4:33:02: [Section 3 Intro](https://www.youtube.com/watch?v=x4rFhThSX04&t=16382s)
@@ -151,7 +152,10 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 11:36:02: [scrollIntoView() iFrame Bug Fix](https://www.youtube.com/watch?v=x4rFhThSX04&t=41762s)
 - 11:39:28: [Section 4 Outro Section 5](https://www.youtube.com/watch?v=x4rFhThSX04&t=41968s)
 
+![Recap of section 4](.img/section4-recap.png)
+
 ## Capstone projects
+
 ![Capstone projects](.img/capstone-projects-tenzie-assembly.png)
 
 - 11:41:14: [Tenzies Intro](https://www.youtube.com/watch?v=x4rFhThSX04&t=42074s)
