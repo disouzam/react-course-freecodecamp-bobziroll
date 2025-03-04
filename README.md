@@ -118,7 +118,7 @@ Repository to follow lessons of [Bob Ziroll in freeCodeCamp.org](https://www.you
 - 8:29:13: [Dynamic Styles](https://www.youtube.com/watch?v=x4rFhThSX04&t=30553s)
 - 8:35:55: [Challenge Part 2](https://www.youtube.com/watch?v=x4rFhThSX04&t=30955s)
 - 8:39:41: [Challenge Part 3](https://www.youtube.com/watch?v=x4rFhThSX04&t=31181s)
-- 8:44:01: [Challenge Part 4.1 Local State](https://www.youtube.com/watch?v=x4rFhThSX04&t=31441s)
+- 8:44:01: [**Lesson 48**: Challenge Part 4.1 Local State](https://www.youtube.com/watch?v=x4rFhThSX04&t=31441s)
 - 8:48:52: [Challenge Part 4.2 Shared State](https://www.youtube.com/watch?v=x4rFhThSX04&t=31732s)
 - 8:55:41: [Challenge Part 4.3 Updating Item in Array](https://www.youtube.com/watch?v=x4rFhThSX04&t=32141s)
 - 9:07:51: [Chef Claude Challenge](https://www.youtube.com/watch?v=x4rFhThSX04&t=32871s)
