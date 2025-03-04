@@ -1,4 +1,4 @@
-import Anthropic from "@anthropic-ai/sdk"
+import process from 'process'
 import { HfInference } from '@huggingface/inference'
 
 const SYSTEM_PROMPT = `
@@ -15,28 +15,6 @@ You are an assistant that receives a list of ingredients that a user has and sug
 // either your own or using some serverless architecture where
 // your API calls can be made. Doing so will keep your
 // API keys private.
-
-const anthropic = new Anthropic({
-    // Make sure you set an environment variable in Scrimba
-    // for ANTHROPIC_API_KEY
-    apiKey: process.env.ANTHROPIC_API_KEY,
-
-    dangerouslyAllowBrowser: true,
-})
-
-export async function getRecipeFromChefClaude(ingredientsArr) {
-    const ingredientsString = ingredientsArr.join(", ")
-
-    const msg = await anthropic.messages.create({
-        model: "claude-3-haiku-20240307",
-        max_tokens: 1024,
-        system: SYSTEM_PROMPT,
-        messages: [
-            { role: "user", content: `I have ${ingredientsString}. Please give me a recipe you'd recommend I make!` },
-        ],
-    });
-    return msg.content[0].text
-}
 
 // Make sure you set an environment variable in Scrimba
 // for HF_ACCESS_TOKEN
