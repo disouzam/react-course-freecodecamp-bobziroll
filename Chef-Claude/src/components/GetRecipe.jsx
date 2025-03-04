@@ -15,7 +15,6 @@ const GetRecipe = (props) => {
 
   useEffect(() => {
     if (recipeRecommendation !== "" && recipeSectionRef.current !== null) {
-      console.log(recipeRecommendation.length);
       recipeSectionRef.current.scrollIntoView({ behavior: "smooth" });
     }
   }, [recipeRecommendation]);
