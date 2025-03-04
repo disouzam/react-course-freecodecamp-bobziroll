@@ -2,8 +2,6 @@ import React from "react";
 import ReactMarkdown from "react-markdown";
 
 const Recipe = (props) => {
-  console.log(`Recipe component: ${props.recommendation}`);
-
   return (
     <section>
       <h2>Chef Claude Recommends:</h2>

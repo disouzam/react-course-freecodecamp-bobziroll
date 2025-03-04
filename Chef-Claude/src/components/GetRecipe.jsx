@@ -6,14 +6,8 @@ const GetRecipe = (props) => {
   const [showRecipe, setShowRecipe] = useState(false);
   const [recipeRecommendation, setRecipeRecommendation] = useState("");
 
-  console.log(
-    `Ingredients at GetRecipe component: ${JSON.stringify(props.ingredients)}`
-  );
-
   async function handleClick() {
-    console.log("Get recipe button clicked");
     setRecipeRecommendation(await getRecipeFromMistral(props.ingredients));
-    console.log(`Recipe recommendation: ${recipeRecommendation}`);
     setShowRecipe(true);
   }
 
