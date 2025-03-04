@@ -1,12 +1,15 @@
 import { useState } from "react";
+import { getRecipeFromMistral } from "./../../ai";
 import Recipe from "./Recipe";
 
 const GetRecipe = (props) => {
   const [showRecipe, setShowRecipe] = useState(false);
+  const [recipeRecommendation, setRecipeRecommendation] = useState("");
 
-  const handleClick = () => {
+  async function handleClick() {
+    setRecipeRecommendation(await getRecipeFromMistral(props.ingredients));
     setShowRecipe(true);
-  };
+  }
 
   return (
     <>
@@ -17,7 +20,7 @@ const GetRecipe = (props) => {
         </div>
         <button onClick={handleClick}>Get a recipe</button>
       </div>
-      {showRecipe && <Recipe />}
+      {showRecipe && <Recipe recommendation={recipeRecommendation} />}
     </>
   );
 };
